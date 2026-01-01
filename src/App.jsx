@@ -415,7 +415,7 @@ export default function WindowsInstallWebsite() {
                   </div>
                   <div>
                     <div className="text-xs text-gray-500 uppercase font-bold tracking-widest group-hover:text-green-500">Chat WhatsApp</div>
-                    <div className="font-bold text-white text-lg">0812-3456-7890</div>
+                    <div className="font-bold text-white text-lg">0895-6213-65826</div>
                   </div>
                 </a>
 
@@ -450,4 +450,5 @@ export default function WindowsInstallWebsite() {
       </footer>
     </div>
   );
+
 }
