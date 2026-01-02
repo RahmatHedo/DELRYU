@@ -36,7 +36,7 @@ export default function WindowsInstallWebsite() {
   };
   
   const handleWhatsAppClick = () => {
-    window.open(`https://wa.me/${whatsappNumber}?text=Halo, saya mau konsultasi jasa install ulang Windows`, '_blank');
+    window.open(`https://wa.me/${whatsappNumber}?text=Halo, saya mau konsultasi jasa konsultasi komputer`, '_blank');
   };
 
   const services = [
@@ -452,3 +452,4 @@ export default function WindowsInstallWebsite() {
   );
 
 }
+
