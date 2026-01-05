@@ -103,7 +103,7 @@ export default function WindowsInstallWebsite() {
                 <span className="text-xl font-bold font-heading">A</span>
               </div>
               <span className="text-xl font-bold tracking-tight font-heading">
-                DELRYU<span className="text-blue-500">INUL</span>
+                DELRYU<span className="text-blue-500">COMP</span>
               </span>
             </div>
             
@@ -379,7 +379,7 @@ export default function WindowsInstallWebsite() {
                   <span className="text-xl font-bold font-heading">A</span>
                 </div>
                 <span className="text-2xl font-bold tracking-tight font-heading">
-                  DELRYU<span className="text-blue-500">INUL</span>
+                  DELRYU<span className="text-blue-500">COMP</span>
                 </span>
               </div>
               <p className="text-gray-400 leading-relaxed">
@@ -452,4 +452,5 @@ export default function WindowsInstallWebsite() {
   );
 
 }
+
 
